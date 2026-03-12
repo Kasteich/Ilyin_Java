@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Повторная отправка тестового задания
+
 public class Main {
 
     public static void main(String[] args) {
